@@ -1,5 +1,6 @@
 # Portfolio Website
-<a href = "sneha-shaw-c1351d.netlify.app">Live Link:</a>
+<a href = "https://sneha-shaw-c1351d.netlify.app/">Live Link:</a>
+sneha-shaw-c1351d.netlify.app
 
 # Project Description
 This is a personal portfolio website designed and developed to showcase my skills, projects, and experience. Built using HTML, CSS, and JavaScript, the website highlights my expertise in web development and serves as a platform to demonstrate my creative and technical abilities.
